@@ -1,7 +1,7 @@
 Ciao mi chiamo Wojciech Stanislaw Potoniec
 =======================================================================================================================================
 
-Sono un Full Stack Web Developer
+Sono uno Full Stack Web Developer
 -------------------
 
 ## Una piccola parentesi su di me:
