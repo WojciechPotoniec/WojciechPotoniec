@@ -9,7 +9,7 @@ Ho 30 anni e sono fortemente appasionato alla tecnologia in generale, vivo a Ben
 Lego facilmente all'interno di un gruppo e mi piace avere sempre un confronto stimolante, che mi aiuta a trovare soluzioni alternative accrescendo le mie skill di problem solving.
 
 * 🌍  Vivo a Benevento, Campania
-* ✉️  Puoi contattarmi via mail a questo indirizzo: [wojtekpotoniec@hotmail.it](mailto:wojtekpotoniec@hotmail.it)
+* ✉️  Puoi contattarmi via mail sul mio sito dagli un'occhiata: www.wojtekhub.it
 * 🧠  Attualmente impegnato in una relazione aperta con React.js, Next.js, Redux, React Native
 * ⚡  Quando non scrivo codice, puoi trovarmi a giocare ai VideoGames😁.
 
