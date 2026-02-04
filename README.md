@@ -1,11 +1,6 @@
 Ciao mi chiamo Wojciech Stanislaw Potoniec
 =======================================================================================================================================
-```markdown
-![GitHub stars](https://img.shields.io/github/stars/WojciechPotoniec/chatbot-fastapi?style=social)
-![GitHub forks](https://img.shields.io/github/forks/WojciechPotoniec/chatbot-fastapi?style=social)
-![GitHub issues](https://img.shields.io/github/issues/WojciechPotoniec/chatbot-fastapi)
-![GitHub license](https://img.shields.io/github/license/WojciechPotoniec/chatbot-fastapi)
-```
+
 Sono un Web Developer
 -------------------
 
