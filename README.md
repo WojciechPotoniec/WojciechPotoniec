@@ -5,7 +5,7 @@ Sono un Web Developer
 -------------------
 
 ## Una piccola parentesi su di me:
-Ho 30 anni e sono fortemente appasionato alla tecnologia in generale, vivo a Benevento nella regione Campania ormai da piú di 20 anni, sono di origine polacca e ho conseguito tutti gli studi in Italia.
+Ho 31 anni e sono fortemente appasionato alla tecnologia in generale, vivo a Benevento nella regione Campania ormai da piú di 20 anni, sono di origine polacca e ho conseguito tutti gli studi in Italia.
 Lego facilmente all'interno di un gruppo e mi piace avere sempre un confronto stimolante, che mi aiuta a trovare soluzioni alternative accrescendo le mie skill di problem solving.
 
 * 🌍  Vivo a Benevento, Campania
